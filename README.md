@@ -21,7 +21,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySql" width="26px" src="https://www.jing.fm/clipimg/full/149-1491645_database-logos-blue-transparent-database-icon.png" />
 
-<img align="left" alt="Firebase" width="30px" src="https://tejidosdeinclusion.co/assets/img/firebase_logo.png" />
+<img align="left" alt="Firebase" width="30px" src="https://assets.stickpng.com/thumbs/5847f40ecef1014c0b5e488a.png" />
 
 <br />
 
