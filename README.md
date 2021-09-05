@@ -15,11 +15,11 @@
 - Love swimming 
 - Fan of anime
 
-### Programming languages:
-<img align="left" alt="Web" width="26px" src="http://pngimg.com/uploads/ie_logo/ie_logo_PNG6.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+### Knowledge:
+<img align="left" alt="Unity" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://symbols.getvecta.com/stencil_261/25_mongodb.f1296c0db6.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NPM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
+<img align="left" alt="MySql" width="26px" src="https://www.jing.fm/clipimg/full/149-1491645_database-logos-blue-transparent-database-icon.png" />
 
 <img align="left" alt="Firebase" width="30px" src="https://tejidosdeinclusion.co/assets/img/firebase_logo.png" />
 
