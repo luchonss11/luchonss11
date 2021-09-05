@@ -23,7 +23,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" alt="C#" width="26px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" />
+<img align="left" alt="C#" width="26px" src="https://drive.google.com/file/d/1KwpVZk3SerhhO0xz027v-NTSeB4tku6j/view?usp=sharing" />
 
 <br />
 
