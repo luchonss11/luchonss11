@@ -21,9 +21,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="C#" width="26px" src="https://w7.pngwing.com/pngs/889/976/png-transparent-the-c-programming-language-computer-programming-programming-miscellaneous-blue-computer-thumbnail.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" />
 
 <br />
 
