@@ -17,12 +17,8 @@
 
 ## Knowledge:
 
-<img align="left" alt="Unity" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://symbols.getvecta.com/stencil_261/25_mongodb.f1296c0db6.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySql" width="24px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
-
-<img align="left" alt="Firebase" width="20px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es" />
+<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 
 <br />
 
