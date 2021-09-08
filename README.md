@@ -17,7 +17,7 @@
 
 ## Knowledge:
 
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 
 <br />
