@@ -14,7 +14,7 @@ Discord Server: https://discord.gg/VTSkS4mQaD
 ### Knowledge:
 
 <img align="left" alt="TypeScript" width="26px" src="https://sebastian-gomez.com/typescript.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
 <br />
