@@ -20,4 +20,4 @@ Discord Server: https://discord.gg/VTSkS4mQaD
 
 ---
 
-<img align="left" alt="Luchonss11 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Luchonss11&show_icons=true&hide_border=true" />
+<img align="left" alt="Luchonss11 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luchonss11&show_icons=true&hide_border=true" />
