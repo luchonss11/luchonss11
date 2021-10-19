@@ -7,7 +7,7 @@
 
 
 
-## Facts about me:
+### Facts about me:
 
 - I'm a 16 yo Developer
 - I was born in Argentina
@@ -15,11 +15,11 @@
 - Love swimming 
 - Fan of anime
 
-## Knowledge:
+### Knowledge:
 
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://sebastian-gomez.com/typescript.png" />
+<img align="left" alt="C#" width="26px" src="https://mlkjsrmvgztu.i.optimole.com/KdnDrso.iZba~31a46/w:940/h:1024/q:75/https://octopush.com/wp-content/uploads/2020/12/sharp.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png" />
 
 <br />
 
