@@ -1,10 +1,6 @@
 # Luchonss Summary 📃
 
-[![Website](https://img.shields.io/website?label=luchonshub.io&style=for-the-badge&url=https%3A%2F%2Fluchonshub.io)](https://luchonshub.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/luchonss11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluchonss11&screen_name=luchonss11)
-![lucaaaa#2222](https://dcbadge.vercel.app/api/shield/454754987432607746)
-
-
+Discord Server: https://discord.gg/VTSkS4mQaD
 
 
 ### Facts about me:
