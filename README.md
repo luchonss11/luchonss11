@@ -15,7 +15,7 @@ Discord Server: https://discord.gg/VTSkS4mQaD
 
 <img align="left" alt="TypeScript" width="26px" src="https://sebastian-gomez.com/typescript.png" />
 <img align="left" alt="C#" width="26px" src="https://mlkjsrmvgztu.i.optimole.com/KdnDrso.iZba~31a46/w:940/h:1024/q:75/https://octopush.com/wp-content/uploads/2020/12/sharp.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/768px-Kotlin_Icon.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
 <br />
 
