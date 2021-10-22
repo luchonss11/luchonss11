@@ -1,6 +1,6 @@
 # Luchonss Summary 📃
 
-Discord Server: https://discord.gg/VTSkS4mQaD
+Discord: lucaaaa#8351
 
 
 ### Facts about me:
